@@ -2,13 +2,13 @@
 <h2 align="center">A passionate frontend React JS and Next Js developer from Lahore.</h2>
 <img align="right" alt="img" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  width="240" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan-latif&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-latif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hassan-Dev9496&label=Profile%20views&color=0e75b6&style=flat" alt="hassan" /> </p>
 
 - 🌱 I’m currently learning *MERN Stack.*
 
 - 👨‍💻 All of my projects are available at [
 
-- 💬 Ask me about *React*
+- 💬 Ask me about *Frontend*
 
 - 📫 How to reach me *hassanqureshi9496@gmail.com*
 
