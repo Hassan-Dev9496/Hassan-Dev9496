@@ -10,11 +10,11 @@
 
 - 💬 Ask me about *React*
 
-- 📫 How to reach me *zeeshanlateef84@gmail.com*
+- 📫 How to reach me *hassanqureshi9496@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zeeshan-latif-367655213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeeshan-latif-367655213/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hassan-qureshi-745ba528b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-qureshi-745ba528b/" height="30" width="40" /></a>
 <a href="https://fb.com/zeeshanlatif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zeeshanlatif" height="30" width="40" /></a>
 <a href="https://instagram.com/zeeshii___official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeeshii___official" height="30" width="40" /></a>
 </p>
