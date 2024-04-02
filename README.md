@@ -24,7 +24,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassan-Dev9496&show_icons=true&locale=en&layout=compact" alt="Hassan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassan-Dev9496&show_icons=true&locale=en" alt="Hassan-Dev9496" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshan-latif&show_icons=true&locale=en" alt="zeeshan-latif" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassan-Dev9496&show_icons=true&locale=en&layout=compact" alt="Hassan-Dev9496" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshan-latif&show_icons=true&locale=en&layout=compact" alt="zeeshan-latif" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-Dev9496&" alt="hassan" /></p>
